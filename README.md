@@ -11,3 +11,5 @@ After adding the save button I wrote the JS to store all of the information of t
 
 This planner can help you keep track of your day and everything that you have to do for the day from meetings, assignments, projects, etc.
 I am planning to further polish some of the visual aspects of this assignment in the future.
+
+Link to the live site: https://jake-tho.github.io/simple-daily-planner/
